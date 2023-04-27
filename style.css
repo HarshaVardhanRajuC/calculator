@@ -26,6 +26,9 @@ button{
   border-color: rgba(0, 0, 0, 0.588);
   border: 2px solid;
 }
+.AC{
+  color: rgb(144, 232, 106);
+}
 button:hover{
   transform: scale(1.01);
   cursor: pointer;
